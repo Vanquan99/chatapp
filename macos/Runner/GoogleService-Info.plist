@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>291655798549-h3fbm8s4gelr3jssgsedq7r9e8tc47ne.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.291655798549-h3fbm8s4gelr3jssgsedq7r9e8tc47ne</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBDfM7kE2FRi7rjvMy1udDGvGsl_6rcVIY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>291655798549</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.quandv.chatapp</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-video-audio-chatapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-video-audio-chatapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:291655798549:ios:aa34b06d3b8644a2dc631c</string>
+</dict>
+</plist>
